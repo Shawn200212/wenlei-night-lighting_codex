@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "wenlei-night-lighting_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "wenlei-night-lighting": "b75390713c236857eb6d9c625fd5b64c6df950806574de46c00863f918173dfb"
+  }
+}
